@@ -16,6 +16,8 @@
 *.dylib
 *.dll
 
+BattleTank/BattleTank.VC.db
+
 # Fortran module files
 *.mod
 
